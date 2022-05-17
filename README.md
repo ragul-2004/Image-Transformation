@@ -119,31 +119,31 @@ plt.show()
 ~~~
 ## Output:
 ## Original Image:
-![output](./img/1.png)
+![output](./1.png)
 ## i) Image Translation:
-![output](./img/2.png)
+![output](./2.png)
 
 
 ## ii) Image Scaling:
-![output](./img/3.png)
+![output](./3.png)
 
 
 ## iii) Image shearing:
-![output](./img/4.png)
-![output](./img/5.png)
+![output](./4.png)
+![output](./5.png)
 
 
 ## iv) Image Reflection:
-![output](./img/6.png)
-![output](./img/7.png)
+![output](./6.png)
+![output](./7.png)
 
 
 ## v) Image Rotation:
-![output](./img/8.png)
+![output](./8.png)
 
 
 ## vi) Image Cropping:
-![output](./img/9.png)
+![output](./9.png)
 
 
 
