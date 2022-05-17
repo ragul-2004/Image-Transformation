@@ -30,7 +30,7 @@ Display all the Transformed images.
 ## Program:
 ~~~
 Developed By: ragul A C
-Register Number:21221240042
+Register Number:212221240042
 ~~~
 ~~~
 import numpy as np
